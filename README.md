@@ -124,8 +124,10 @@
 
 ## 个人总结
 
-- [Note-Video](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Note-Video) 视频学习笔记
-- [Java-Snippets](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Java-Snippets) 一些代码片段示例
+- [经验总结](docs/Java/Java-Experience-Guides.md) 视频学习笔记
+- Java 常见操作
+  - [Java-List](docs/Java-Snippets/List.md) 一些代码片段示例
+  - [Java-Map](docs/Java-Snippets/Map.md) 一些代码片段示例
 
 ## 说明
 
