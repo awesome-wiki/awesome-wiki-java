@@ -126,8 +126,8 @@
 
 - [经验总结](docs/Java/Java-Experience-Guides.md) 视频学习笔记
 - Java 常见操作
-  - [Java-List](docs/Java-Snippets/List.md) 一些代码片段示例
-  - [Java-Map](docs/Java-Snippets/Map.md) 一些代码片段示例
+  - [Java-List](docs/Java/Java-Snippets/List.md) 一些代码片段示例
+  - [Java-Map](docs/Java/Java-Snippets/Map.md) 一些代码片段示例
 
 ## 说明
 
