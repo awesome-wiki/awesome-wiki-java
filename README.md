@@ -1,11 +1,32 @@
+> awesome-wiki-java 是 awesome-wiki 系列的首篇，预计，后期还会出其他一些 wiki 指南，例如常用的开发工具、电子书等，欢迎小伙伴持续关注！
+
+**开始阅读之前必看** ：
+
+-  [awesome-wiki-java 重大更新记录](./docs/update-history.md)
+
+更多原创内容和干货分享：
+- [微信](#联系我) ：如果需要和我交流的话可以加我私人微信(ps: 有问题的话也可以问，我会尽量回答大家，我很随和的，哈哈！另外，账号快加满了)
+- [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
+- [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍
+
+[在线阅读](https://awesome-wiki.github.io/awesome-wik-java/#/)
+
+<p align="center">
+<a href="https://github.com/awesome-wiki/awesome-wik-java)" target="_blank">
+	<img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-java-logo.png" width=""/>
+</a>
+</p>
+
+<p align="center">
+  <a href="https://awesome-wiki.github.io/awesome-wik-java">
+    <img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读">
+  </a>
+  <a href="#公众号">
+    <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Coder%E9%AD%94%E6%B3%95%E9%99%A2-blue" alt="公众号">
+  </a>
+</p>
+
 ## 知识点
-
-:100 
-
-```java
-echo hello
-System.out.println("hello");
-```
 
 ### 教程
 
@@ -94,3 +115,15 @@ System.out.println("hello");
 
 - [Note-Video](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Note-Video) 视频学习笔记
 - [Java-Snippets](https://github.com/Michael728/awesome-wiki-for-me/tree/master/Tech/Java/Java-Snippets) 一些代码片段示例
+
+## 说明
+
+### 联系我
+<!-- tab 微信号@wechat -->
+![微信号](https://gitee.com/michael_xiang/images/raw/master/微信二维码-翔-250-250.jpeg)
+
+### 公众号
+<!-- tab 公众号@feed -->
+![公众号 Coder魔法院](https://gitee.com/michael_xiang/images/raw/master/微信公众号.jpg)
+
+
