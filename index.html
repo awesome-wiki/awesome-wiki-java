@@ -23,7 +23,7 @@
       maxLevel: 3,//最大支持渲染的标题层级
       coverpage: true,//封面,_coverpage.md
       auto2top: true,//切换页面后是否自动跳转到页面顶部
-      disqus: 'michaelxiang',
+      // disqus: 'michaelxiang',
       search: {
         //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
@@ -50,17 +50,17 @@
    <!-- https://docsify.js.org/#/zh-cn/plugins?id=disqus -->
    <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
    <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
-      clientID: 'ac2cc82b532f0615fbfe',
-      clientSecret: 'f0f735f81a804d16e9651cc7e3cb1393b6a5c877',
-      repo: 'https://github.com/awesome-wiki/awesome-wik-java',
-      owner: 'Michael728',
-      admin: ['Michael728'],
-      // facebook-like distraction free mode
-      distractionFreeMode: false
-    })
-  </script>
+   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script>
+      const gitalk = new Gitalk({
+        clientID: 'ac2cc82b532f0615fbfe',
+        clientSecret: 'f0f735f81a804d16e9651cc7e3cb1393b6a5c877',
+        repo: 'https://github.com/awesome-wiki/awesome-wik-java',
+        owner: 'Michael728',
+        admin: ['Michael728'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false
+      })
+   </script>
 </body>
 </html>
