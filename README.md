@@ -20,19 +20,20 @@
 
 > 人脑不是电脑，学会怎么获取答案比记住答案更重要！因此，awesome-wiki-java 主要是记录一些优质的学习资源，而不是学习总结！
 
-更多原创内容和干货分享：
+其他分享：
 - [微信](#联系我) ：乐于交志同道合的朋友，欢迎扫一扫，备注来源哈
 - [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
 <!-- - [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍 -->
 
 [在线阅读](https://awesome-wiki.github.io/awesome-wiki-java/#/)
 
-## 知识点
+## Java 基础
 
 ### 教程
 
 - [doocs/advanced-java](https://github.com/doocs/advanced-java) 互联网 Java 工程师进阶知识完全扫盲
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) A curated list of awesome frameworks, libraries and software for the Java programming language.
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识 [阅读](https://snailclimb.gitee.io/javaguide/#/)
 - [Vamei-Java快速教程](https://www.cnblogs.com/vamei/archive/2013/03/31/2991531.html)
 - [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) Java 工程师成神之路
 - [DuHouAn/Java](https://github.com/DuHouAn/Java) 计算机基础☕️ Java👫 面向对象📝 编程题💾 数据库🔨 消息队列📖 系统设计💻 工具🙊 大数据🔧 进阶指南 [阅读](https://duhouan.github.io/Java/#/)
@@ -42,6 +43,7 @@
 - [aalansehaiyang/technology-talk](https://github.com/aalansehaiyang/technology-talk) 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
 - [java-bible](https://github.com/biezhi/java-bible) 技术摘要
 
+## Java 进阶
 
 ### 线程
 
@@ -49,51 +51,44 @@
 - [简书-Java中的多线程你只要看这一篇就够了](https://www.jianshu.com/p/40d4c7aebd66)
 - [田守枝-Java并发编程基本知识介绍](http://www.tianshouzhi.com/api/tutorials/mutithread) 并发编程系列文章
 
+## 电子书
+
+电子书统一整理到 [awesome-wiki-books](https://github.com/awesome-wiki/awesome-wiki-books)，因此这里就不再重复归档了。
+
+## Java 编码规范
+
+- [Google Java Style](https://google.github.io/styleguide/javaguide.html#s1-introduction) 
+- [Alibaba Java Style](https://github.com/alibaba/p3c/)
+
+## 框架
+
 ### Spring Boot
+
+#### 教程示例
 
 - [官宣-spring boot docs](https://docs.spring.io/spring-boot/docs/) 各个版本的 spring boot 文档，英文
 - [My Sunshine-Spring Boot 标签](https://blog.wuwii.com/tags/Spring-Boot/) 推荐，文章很全面！
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) 博主总结了很全面的示例！
 - [ityouknow/awesome-spring-boot](https://github.com/ityouknow/awesome-spring-boot) Spring Boot 学习资源的索引网站 [阅读](http://springboot.fun/)
 - [CSDN-Spring Boot学习笔记](https://blog.csdn.net/gnail_oug/column/info/22146) 一位博主的自己总结，挺全面
-- [关于Spring IOC (DI-依赖注入)你需要知道的一切](https://blog.csdn.net/javazejian/article/details/54561302) 好文章
 - [geekidea/spring-boot-plus](https://github.com/geekidea/spring-boot-plus) 集成spring boot常用开发组件的后台快速开发脚手架，开箱即用 [阅读](https://springboot.plus/)
 - [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架 [阅读](https://www.sofastack.tech/projects/sofa-boot/overview/)
 - [yizhiwazi/springboot-socks](https://github.com/yizhiwazi/pringboot-socks) SpringBoot 基础教程 | 从入门到上瘾 | 基于2.0.0.M5制作
 
-### 数据库连接池
+#### 好文
+
+- [关于Spring IOC (DI-依赖注入)你需要知道的一切](https://blog.csdn.net/javazejian/article/details/54561302) 好文章
+
+#### 数据库连接池
 
 - [alibaba/druid](https://github.com/alibaba/druid) 阿里巴巴数据库事业部出品，为监控而生的数据库连接池
 
-## 电子书
-
-- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) Java 开发者技术书籍大全
-- [《On Java 8》中文版，又名《Java编程思想》 第5版](https://github.com/LingCoder/OnJava8) [阅读](https://lingcoder.gitee.io/onjava8/#/)
-
-## 编码规范
-
-- Google Java Style: https://google.github.io/styleguide/javaguide.html#s1-introduction
-- Alibaba Java Style: https://github.com/alibaba/p3c/
-
-## Java 工具
-
-- [alibaba/arthas](https://github.com/alibaba/arthas) Java诊断利器Arthas 
-
-## 单元测试
+## 测试
 
 - [Java 单测伴侣 - mockito](http://blog.xiayf.cn/2019/06/17/mockito/)
 - [mockito/mockito](https://github.com/mockito/mockito)
 
-## 任务调度
-
-- [XXL-JOB](https://github.com/xuxueli/xxl-job) 分布式任务调度平台XXL-JOB [阅读](https://www.xuxueli.com/xxl-job/)
-- Quartz 
-- SchedulerX
-- celery
-- antares
-- [elasticjob/elastic-job-lite](https://github.com/elasticjob/elastic-job-lite)
-
-## 实战
+## Java 实战项目
 
 - [macrozheng/mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现
 - [ooly/hutool](https://github.com/looly/hutool) Java 工具包集合，[阅读地址](http://www.hutool.cn)
@@ -106,6 +101,21 @@
 - [b3log/symphony](https://github.com/b3log/symphony) 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
 - [zhyocean/MyBlog](https://github.com/zhyocean/MyBlog) 使用SpringBoot+MyBatis独立进行前后端开发的个人博客网站
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
+
+## 常用中间件
+
+### 任务调度
+
+- [XXL-JOB](https://github.com/xuxueli/xxl-job) 分布式任务调度平台XXL-JOB [阅读](https://www.xuxueli.com/xxl-job/)
+- Quartz 
+- SchedulerX
+- celery
+- antares
+- [elasticjob/elastic-job-lite](https://github.com/elasticjob/elastic-job-lite)
+
+## 工具
+
+- [alibaba/arthas](https://github.com/alibaba/arthas) Java 诊断利器 Arthas 
 
 ## Java 性能
 
