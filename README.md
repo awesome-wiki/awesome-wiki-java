@@ -1,12 +1,12 @@
 <!-- 封面图 -->
 <p align="center">
-  <a href="https://github.com/awesome-wiki/awesome-wik-java)" target="_blank">
+  <a href="https://github.com/awesome-wiki/awesome-wiki-java)" target="_blank">
 	  <img src="https://gitee.com/michael_xiang/images/raw/master/uPic/awesome-wiki-java-logo.png" width=""/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://awesome-wiki.github.io/awesome-wik-java">
+  <a href="https://awesome-wiki.github.io/awesome-wiki-java">
     <img src="https://img.shields.io/badge/阅读-read-brightgreen.svg" alt="阅读">
   </a>
   <a href="#公众号">
@@ -14,14 +14,14 @@
   </a>
 </p>
 
-> awesome-wiki-java 是 awesome-wiki 系列的首篇，预计，后期还会出其他一些 wiki 指南，例如常用的开发工具、电子书等，欢迎小伙伴持续关注！
+> 人脑不是电脑，学会怎么获取答案比记住答案更重要！因此，awesome-wiki-java 主要是记录一些优质的学习资源，而不是学习总结！
 
 更多原创内容和干货分享：
 - [微信](#联系我) ：乐于交志同道合的朋友，欢迎扫一扫，备注来源哈
 - [公众号：Coder魔法院](#公众号) ：因为懒，「不持续性」输出一些干货内容，技术、工具等 
 <!-- - [B 站：Coder魔法](https://space.bilibili.com/12316226)：因为懒，「不持续性」输出一些干货内容，技术、工具等的视频介绍 -->
 
-[在线阅读](https://awesome-wiki.github.io/awesome-wik-java/#/)
+[在线阅读](https://awesome-wiki.github.io/awesome-wiki-java/#/)
 
 ## 知识点
 
