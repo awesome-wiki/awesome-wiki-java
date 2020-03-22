@@ -8,7 +8,7 @@
 
 [awesome-wiki 系列](https://github.com/awesome-wiki)
 [GitHub](https://github.com/awesome-wiki/awesome-wiki-java)
-[开始阅读](#)
+[开始阅读](#java-基础)
 
 
 
